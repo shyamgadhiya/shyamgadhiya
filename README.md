@@ -2,8 +2,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,45:172554,100:4338CA&height=230&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=A5B4FC&descAlignY=58&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,45:172554,100:4338CA&height=230&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=1E1B4B&stroke=FFFFFF&strokeWidth=2&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=4338CA&descAlignY=58&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,45:172554,100:4338CA&height=230&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=A5B4FC&descAlignY=58&animation=fadeIn" alt="Shyam Gadhiya banner" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:E0E7FF,45:C7D2FE,100:818CF8&height=230&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=1E1B4B&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=3730A3&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:E0E7FF,45:C7D2FE,100:818CF8&height=230&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=1E1B4B&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=3730A3&descAlignY=58&animation=fadeIn" alt="Shyam Gadhiya banner" width="100%"/>
 </picture>
 
 <a href="https://git.io/typing-svg">
