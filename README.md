@@ -1,20 +1,22 @@
 <div align="center">
 
+<!-- Header Banner (Adaptive Light/Dark Mode + Full Width Wave) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:172554,100:4338CA&height=230&section=header&text=Shyam%20Gadhiya&fontSize=56&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=C7D2FE&descAlignY=58&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,50:C7D2FE,100:A5B4FC&height=230&section=header&text=Shyam%20Gadhiya&fontSize=56&fontColor=1E1B4B&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=3730A3&descAlignY=58&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,50:C7D2FE,100:A5B4FC&height=230&section=header&text=Shyam%20Gadhiya&fontSize=56&fontColor=1E1B4B&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=3730A3&descAlignY=58&animation=fadeIn" alt="Shyam Gadhiya banner" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:1E1B4B,100:4338CA&height=240&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=A5B4FC&descAlignY=58&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:3730A3,100:4F46E5&height=240&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=E0E7FF&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:3730A3,100:4F46E5&height=240&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=E0E7FF&descAlignY=58&animation=fadeIn" alt="Shyam Gadhiya banner" width="100%"/>
 </picture>
 
+<!-- Typing SVG (Adaptive Light/Dark Mode for High Contrast) -->
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A5B4FC&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+internship+opportunities">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=4338CA&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+opportunities">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=4338CA&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+opportunities" alt="Typing animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A5B4FC&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+opportunities" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3730A3&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+opportunities" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3730A3&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+opportunities" alt="Typing animation"/>
   </picture>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/shyamgadhiya?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 <a href="https://multiagentresearcher.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Research%20Assistant-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"/></a>
@@ -28,7 +30,7 @@
 
 I'm **Shyam Gadhiya**, an AI/ML developer who likes taking a model from a notebook to something people can actually run: detect it, track it, search it, serve it, and measure it.
 
-| | |
+| Area | Focus |
 |---|---|
 | 🧠 **Machine learning** | Model training, evaluation, explainability |
 | 👁️ **Computer vision** | Detection, tracking, pose estimation, segmentation, visual search |
@@ -42,9 +44,11 @@ I'm **Shyam Gadhiya**, an AI/ML developer who likes taking a model from a notebo
 
 <div align="center">
 
+<!-- Skill Icons (Adaptive Light/Dark Mode) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode&perline=10&theme=light" alt="Core technologies"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode&perline=10&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode&perline=10&theme=dark" alt="Core technologies"/>
 </picture>
 
 <br/><br/>
@@ -163,20 +167,25 @@ A video analytics pipeline built on RF-DETR detections with interchangeable Byte
 
 <div align="center">
 
+<!-- GitHub Stats & Top Languages (Adaptive Light/Dark Mode) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shyamgadhiya&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamgadhiya&show_icons=true&hide_border=true&bg_color=EEF2FF&title_color=4338CA&text_color=334155&icon_color=6366F1&rank_icon=github" height="165" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shyamgadhiya&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shyamgadhiya&show_icons=true&hide_border=false&border_color=E2E8F0&bg_color=F8FAFC&title_color=3730A3&text_color=1E293B&icon_color=4F46E5&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamgadhiya&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8&rank_icon=github" height="165" alt="GitHub stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgadhiya&layout=compact&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgadhiya&layout=compact&hide_border=true&bg_color=EEF2FF&title_color=4338CA&text_color=334155" height="165" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgadhiya&layout=compact&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgadhiya&layout=compact&hide_border=false&border_color=E2E8F0&bg_color=F8FAFC&title_color=3730A3&text_color=1E293B" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgadhiya&layout=compact&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1" height="165" alt="Top languages"/>
 </picture>
 
-<br/>
+<br/><br/>
 
+<!-- Streak Stats (Adaptive Light/Dark Mode) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shyamgadhiya&hide_border=true&background=0B1020&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC">
-  <img src="https://streak-stats.demolab.com?user=shyamgadhiya&hide_border=true&background=EEF2FF&ring=4338CA&fire=6366F1&currStreakLabel=4338CA&sideLabels=334155&dates=64748B&currStreakNum=1E1B4B&sideNums=1E1B4B" alt="Contribution streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shyamgadhiya&hide_border=true&background=0B1020&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shyamgadhiya&hide_border=false&border=E2E8F0&background=F8FAFC&ring=4F46E5&fire=3730A3&currStreakLabel=3730A3&sideLabels=334155&dates=64748B&currStreakNum=0F172A&sideNums=0F172A" />
+  <img src="https://streak-stats.demolab.com?user=shyamgadhiya&hide_border=true&background=0B1020&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC&sideLabels=CBD5E1&dates=94A3B8" alt="Contribution streak"/>
 </picture>
 
 </div>
@@ -204,9 +213,11 @@ I'm happy to connect with people working in **AI/ML, computer vision, and genera
 
 <br/><br/>
 
+<!-- Footer Banner (Adaptive Light/Dark Mode) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:172554,100:0B1020&height=110&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5B4FC,50:C7D2FE,100:E0E7FF&height=110&section=footer" alt="Footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:1E1B4B,100:0B1020&height=110&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:3730A3,100:1E1B4B&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:1E1B4B,100:0B1020&height=110&section=footer" alt="Footer" width="100%"/>
 </picture>
 
 <sub>Thanks for visiting. Open a repository and tell me what you think. ✨</sub>
