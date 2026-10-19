@@ -180,7 +180,7 @@ I'm happy to connect with people working in **AI/ML, computer vision, and genera
 
 <a href="https://github.com/shyamgadhiya"><img src="https://img.shields.io/badge/GitHub-shyamgadhiya-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/shyam-gadhiya-624147248"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:"><img srcshyamgadhiya502gmail.com="https://img.shields.io/badge/Email-Contact-4338CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 
 
 <br/><br/>
