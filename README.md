@@ -1,284 +1,211 @@
-<div align="center">
+&lt;div align=&quot;center&quot;&gt;
 
-<!-- Header Typing Animation -->
-<a href="https://github.com/shyamgadhiya">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Shyam+Gadhiya+%F0%9F%91%8B;Applied+AI+%26+Computer+Vision+Engineer;Architecting+Autonomous+Multi-Agent+Systems;Accelerating+Deep+Learning+Inference+at+Scale;Building+High-Throughput+Vision+Pipelines" alt="Typing SVG Banner" />
-</a>
+&lt;img src=&quot;https://capsule-render.vercel.app/api?type=venom&amp;color=0:0B1020,45:172554,100:4338CA&amp;height=230&amp;section=header&amp;text=Shyam%20Gadhiya&amp;fontSize=58&amp;fontColor=F8FAFC&amp;fontAlignY=38&amp;desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&amp;descSize=17&amp;descColor=A5B4FC&amp;descAlignY=58&amp;animation=fadeIn&quot; alt=&quot;Shyam Gadhiya banner&quot; width=&quot;100%&quot;/&gt;
 
-<p align="center">
-<strong>Applied AI & Computer Vision Engineer</strong> passionate about transforming state-of-the-art vision models and agentic workflows into production-grade, low-latency intelligence.
-</p>
+&lt;a href=&quot;https://git.io/typing-svg&quot;&gt;
+  &lt;picture&gt;
+    &lt;source media=&quot;(prefers-color-scheme: dark)&quot; srcset=&quot;https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=A5B4FC&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+opportunities&quot;/&gt;
+    &lt;source media=&quot;(prefers-color-scheme: light)&quot; srcset=&quot;https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=4338CA&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+opportunities&quot;/&gt;
+    &lt;img src=&quot;https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=4338CA&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+opportunities&quot; alt=&quot;Typing animation&quot;/&gt;
+  &lt;/picture&gt;
+&lt;/a&gt;
 
-<!-- Social & Profile Links -->
-<p align="center">
-<a href="https://github.com/shyamgadhiya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/shyam-gadhiya" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://huggingface.co/shyamgadhiya" target="_blank">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</a>
-<a href="mailto:contact@shyamgadhiya.in">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://shyamgadhiya.in" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-</p>
+<br/>
 
-<!-- Profile Visitor Counter & Badges -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shyamgadhiya&style=flat-square&color=00f2fe&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATION-00c853?style=flat-square" alt="Status" />
-<img src="https://img.shields.io/badge/FOCUS-VISION_AI_%26_AGENTS-7928CA?style=flat-square" alt="Focus" />
-</p>
+&lt;a href=&quot;https://github.com/shyamgadhiya?tab=repositories&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Explore-All%20Repositories-4338CA?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;Repositories&quot;/&gt;&lt;/a&gt;
+&lt;a href=&quot;https://multiagentresearcher.streamlit.app/&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Live%20Demo-Research%20Assistant-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white&quot; alt=&quot;Live demo&quot;/&gt;&lt;/a&gt;
+&lt;img src=&quot;https://komarev.com/ghpvc/?username=shyamgadhiya&amp;label=Profile%20views&amp;color=4338CA&amp;style=for-the-badge&quot; alt=&quot;Profile views&quot;/&gt;
 
-</div>
+&lt;/div&gt;
 
-👨‍💻 About Me
+<br/>
 
-engineer:
-  name: Shyam Gadhiya
-  role: Applied AI & Computer Vision Engineer
-  core_competencies:
-    - Real-Time Computer Vision & Detection (RF-DETR, YOLO, Segment Anything)
-    - High-Performance Model Optimization & Quantization (TensorRT, ONNX Runtime)
-    - Autonomous Multi-Agent Orchestration & Tool-Calling (LangGraph, CrewAI)
-    - Large-Scale Dense & Hybrid Vector Retrieval (Milvus, DINOv2, CLIP)
-  current_focus: Building production-grade agentic pipelines and sub-15ms edge vision systems
-  philosophy: "Bridging the gap between cutting-edge AI research and millisecond-level production reliability."
+## 👋 About me
 
+I'm **Shyam Gadhiya**, an AI/ML developer who likes taking a model from a notebook to something people can actually run: detect it, track it, search it, serve it, and measure it.
 
-🔭 Current Focus: Scaling distributed multi-agent research frameworks and accelerating transformer-based visual perception architectures.
+| | |
+|---|---|
+| 🧠 **Machine learning** | Model training, evaluation, explainability |
+| 👁️ **Computer vision** | Detection, tracking, pose estimation, segmentation, visual search |
+| ✨ **Generative AI** | LLM apps, RAG pipelines, multi-agent orchestration |
+| ⚡ **Deployment** | FastAPI serving, ONNX/INT8 optimization, Docker, Streamlit apps |
+| 🎯 **Goal** | Reproducible, well-documented projects, and an Applied AI/ML Engineer |
 
-⚡ Model Optimization: Crafting custom ONNX graph rewrites, TensorRT compilation pipelines, and FP16/INT8 quantization matrices for sub-20ms inference.
+<br/>
 
-🔍 Information Retrieval: Developing hybrid vector-text search engines indexing multi-million image corpora using Milvus and foundation vision encoders.
+## ⚙️ Tech stack
 
-🤝 Collaboration: Always excited to collaborate on open-source deep learning tooling, edge vision deployment, and multi-agent systems.
+&lt;div align=&quot;center&quot;&gt;
 
-🛠️ Technical Arsenal
+&lt;picture&gt;
+  &lt;source media=&quot;(prefers-color-scheme: dark)&quot; srcset=&quot;https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode&amp;perline=10&amp;theme=dark&quot;/&gt;
+  &lt;source media=&quot;(prefers-color-scheme: light)&quot; srcset=&quot;https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode&amp;perline=10&amp;theme=light&quot;/&gt;
+  &lt;img src=&quot;https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode&amp;perline=10&amp;theme=dark&quot; alt=&quot;Core technologies&quot;/&gt;
+&lt;/picture&gt;
 
-<div align="center">
+<br/><br/>
 
-🧠 Deep Learning, Computer Vision & Perception
+&lt;img src=&quot;https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=111827&quot; alt=&quot;Hugging Face&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/LangChain-LLM%20Apps-1C3C3C?style=flat-square&quot; alt=&quot;LangChain&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/LangGraph-Agent%20Workflows-4338CA?style=flat-square&quot; alt=&quot;LangGraph&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/RF--DETR-Detection-0EA5E9?style=flat-square&quot; alt=&quot;RF-DETR&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/SAM3-Segmentation-7C3AED?style=flat-square&quot; alt=&quot;SAM3&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/CLIP-Vision--Language-10B981?style=flat-square&quot; alt=&quot;CLIP&quot;/&gt;
+&lt;br/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/Milvus-Vector%20DB-0F766E?style=flat-square&quot; alt=&quot;Milvus&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/FAISS-Vector%20Search-2563EB?style=flat-square&quot; alt=&quot;FAISS&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/ONNX%20Runtime-INT8-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white&quot; alt=&quot;ONNX Runtime&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white&quot; alt=&quot;Streamlit&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/Ultralytics-YOLO%20%26%20SAM-111F68?style=flat-square&quot; alt=&quot;Ultralytics&quot;/&gt;
+&lt;img src=&quot;https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white&quot; alt=&quot;scikit-learn&quot;/&gt;
 
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Roboflow_RF--DETR-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow RF-DETR" />
-<img src="https://img.shields.io/badge/Segment_Anything_(SAM)-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="SAM" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Albumentations-2D3748?style=for-the-badge&logo=python&logoColor=white" alt="Albumentations" />
-<img src="https://img.shields.io/badge/Detectron2-0081FB?style=for-the-badge&logo=meta&logoColor=white" alt="Detectron2" />
-</p>
+&lt;/div&gt;
 
-⚡ Model Optimization, Serving & Acceleration
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/NVIDIA_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT" />
-<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-<img src="https://img.shields.io/badge/Triton_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Triton Server" />
-<img src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="DeepStream" />
-<img src="https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="OpenVINO" />
-</p>
+## 🚀 Featured projects
 
-🤖 GenAI, LLMs & Multi-Agent Orchestration
+> Each project below links to its own repository with setup instructions.
 
-<p>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logo=target&logoColor=white" alt="CrewAI" />
-<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="LlamaIndex" />
-<img src="https://img.shields.io/badge/vLLM-00B4D8?style=for-the-badge&logo=fastapi&logoColor=white" alt="vLLM" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-</p>
+<br/>
 
-🔍 Vector Databases & Data Infrastructure
+### 🤖 Multi-Agent Research Assistant
 
-<p>
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
-<img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-<img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-</p>
+An autonomous research workflow that coordinates specialized agents, combines web search with local-document retrieval, critiques its own results, and produces citation-backed reports.
 
-💻 Programming Languages & Backend
+&lt;img src=&quot;https://img.shields.io/badge/LangGraph-4338CA?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/FAISS-2563EB?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/Tavily-0F172A?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white&quot;/&gt;
 
-<p>
-<img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+[**📂 Repository**](https://github.com/shyamgadhiya/Multi-Agent-Research-Assistant-) &nbsp;•&nbsp; [**🌐 Live demo**](https://multiagentresearcher.streamlit.app/)
 
-☁️ MLOps, Cloud & Deployment
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+### 🏭 Industrial AI Safety Monitoring System
 
-</div>
+A real-time, multi-camera pipeline for warehouses and factories. A custom fine-tuned **RF-DETR Small** detector feeds **ByteTrack** tracking, **ViTPose** fall detection, and **CLIP** zero-shot scene verification. A rule engine flags worker–forklift proximity and falls, then saves annotated clips, snapshots, and JSON evidence. Incidents are searchable in natural language through **Milvus-Lite**, with a live web dashboard.
 
-🚀 Featured Projects
+&lt;img src=&quot;https://img.shields.io/badge/RF--DETR-0EA5E9?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/ByteTrack-111827?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/ViTPose-7C3AED?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/CLIP-10B981?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/Milvus--Lite-0F766E?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white&quot;/&gt;
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="left">
-<a href="https://github.com/shyamgadhiya/multi-agent-research-assistant">🤖 Multi-Agent Research Assistant</a>
-</h3>
-<p>
-An autonomous, coordinated multi-agent framework orchestrating literature synthesis, live web exploration, and critical evaluation with strict grounded citations.
-</p>
-<ul>
-<li><b>Architecture</b>: Graph-based cyclical agent workflows built with LangGraph & CrewAI.</li>
-<li><b>Capabilities</b>: Dynamic query decomposition, automated source fact-checking, and markdown report synthesis.</li>
-<li><b>Key Highlight</b>: Autonomous self-reflection loops reducing hallucinations by 45%.</li>
-</ul>
-<p>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="left">
-<a href="https://github.com/shyamgadhiya/industrial-ai-safety-monitoring">🏭 Industrial AI Safety Monitoring System</a>
-</h3>
-<p>
-End-to-end edge computer vision intelligence engine engineered for real-time safety compliance and hazard mitigation in factory environments.
-</p>
-<ul>
-<li><b>Capabilities</b>: Real-time PPE inspection (helmets, vests, gloves), danger-zone intrusion geofencing, and fall detection.</li>
-<li><b>Throughput</b>: Multi-stream RTSP feed ingestion at 45+ FPS with sub-35ms pipeline latency.</li>
-<li><b>Alerting</b>: Event-driven notification bus streaming telemetry to industrial dashboards.</li>
-</ul>
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/YOLO%2FRT--DETR-6706CE?style=flat-square&logo=roboflow&logoColor=white" alt="RT-DETR" />
-<img src="https://img.shields.io/badge/DeepStream-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="DeepStream" />
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 align="left">
-<a href="https://github.com/shyamgadhiya/rf-detr-inference-optimization">⚡ RF-DETR Inference Optimization & Production Serving</a>
-</h3>
-<p>
-High-throughput production serving pipeline for Roboflow's Real-Time Detection Transformer (RF-DETR) fine-tuned and compiled for bare-metal GPU acceleration.
-</p>
-<ul>
-<li><b>Optimization</b>: Custom ONNX graph surgical operator fusion, FP16/INT8 post-training quantization.</li>
-<li><b>Speedup</b>: <b>3.8x inference speedup</b> (sub-12ms) over PyTorch baseline with &lt;0.8% mAP loss.</li>
-<li><b>Deployment</b>: Triton Inference Server container with dynamic batching and Prometheus metrics.</li>
-</ul>
-<p>
-<img src="https://img.shields.io/badge/RF--DETR-6706CE?style=flat-square&logo=roboflow&logoColor=white" alt="RF-DETR" />
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT" />
-<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
-<img src="https://img.shields.io/badge/Triton-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Triton" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="left">
-<a href="https://github.com/shyamgadhiya/milvus-hybrid-image-retrieval">🔍 Milvus Hybrid Image Retrieval Engine</a>
-</h3>
-<p>
-Sub-10ms multimodal image search architecture powering reverse-image search and visual similarity querying across millions of high-resolution items.
-</p>
-<ul>
-<li><b>Embeddings</b>: Dual-encoder setup utilizing DINOv2 self-supervised visual tokens and CLIP text-image embeddings.</li>
-<li><b>Indexing</b>: HNSW & IVF-PQ vector indexing in Milvus coupled with BM25 sparse metadata filtering.</li>
-<li><b>Performance</b>: Handles 1,200+ QPS with p99 latency under 8.4ms.</li>
-</ul>
-<p>
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" alt="Milvus" />
-<img src="https://img.shields.io/badge/DINOv2%20%2F%20CLIP-1877F2?style=flat-square&logo=meta&logoColor=white" alt="CLIP" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<h3 align="left">
-<a href="https://github.com/shyamgadhiya/sam3-cutout-studio">✂️ SAM3 Cutout Studio</a>
-</h3>
-<p>
-Next-generation interactive zero-shot segmentation and matting studio powered by Segment Anything foundation models (SAM / SAM 2 / SAM 3).
-</p>
-<ul>
-<li><b>Core Functionality</b>: Prompt-guided point, box, and text object extraction with instant sub-pixel boundary alpha matting.</li>
-<li><b>Interactive UI</b>: High-performance canvas interface with real-time mask overlay preview and batch dataset annotation export.</li>
-<li><b>Performance</b>: GPU-cached image embedding tensors enabling instant &lt;50ms user prompt updates.</li>
-</ul>
-<p>
-<img src="https://img.shields.io/badge/Segment_Anything-1877F2?style=flat-square&logo=meta&logoColor=white" alt="SAM" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-</td>
-</tr>
-</table>
+[**📂 Repository**](https://github.com/shyamgadhiya/Industrial-AI-Safety-Monitoring-System)
 
-📊 GitHub Analytics & Activity
+<br/>
 
-<div align="center">
-<table border="0">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=shyamgadhiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f2fe&text_color=a0aec0&icon_color=00f2fe" width="100%" alt="Shyam's GitHub Stats" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgadhiya&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe&text_color=a0aec0" width="100%" alt="Top Languages" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgadhiya&theme=tokyonight&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="100%" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-</div>
+### ⚡ RF-DETR Inference Optimization & Production Serving
 
-🤝 Let's Connect & Collaborate
+A production-style object-detection service that benchmarks **PyTorch FP32 → ONNX FP32 → ONNX INT8** and serves the result through **FastAPI**. It includes runtime hot-swapping, structured JSON logging, p50/p95/p99 latency metrics, load testing, and Docker deployment.
 
-<div align="center">
+| Runtime | Warm latency | FPS | Model size |
+|---|---|---|---|
+| PyTorch FP32 | 935 ms | 1.07 | ~386 MB |
+| ONNX FP32 | 855 ms | 1.17 | 134 MB |
+| **ONNX INT8** | **625 ms** (−33%) | **1.60** | **54 MB** (−59%) |
 
-<p>
-Whether you are looking to discuss Computer Vision deployment, Agentic Workflows, Voice AI Agents inference optimization, or potential collaborations — my inbox is always open!
-</p>
+&lt;sub&gt;CPU benchmark, 576×576 input, 5 warm runs.&lt;/sub&gt;
 
-<p>
-<a href="https://www.linkedin.com/in/shyam-gadhiya-624147248" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:shyamgadhiya502@gmail.com">
-<img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-</p>
+&lt;img src=&quot;https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/RF--DETR-0EA5E9?style=flat-square&quot;/&gt;
 
-<br />
+[**📂 Repository**](https://github.com/shyamgadhiya/RFDETR-Inference-Optimization-Production-Serving-)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" alt="Footer Wave" />
+<br/>
 
-</div>
+### 🔍 Milvus Hybrid Image Retrieval Engine
+
+A multimodal semantic image search engine. **CLIP ViT-B/32** embeds images and text into a shared 512-D space, and **Milvus Lite** runs cosine nearest-neighbor search combined with scalar filters (class, camera, date). Includes a dark-mode Streamlit UI with calibrated match scores, a CLI search tool, and latency/scaling benchmarks.
+
+&lt;img src=&quot;https://img.shields.io/badge/CLIP%20ViT--B%2F32-10B981?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/Milvus%20Lite-0F766E?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white&quot;/&gt;
+
+[**📂 Repository**](https://github.com/shyamgadhiya/Milvus-Hybrid-Image-Retrieval-Engine)
+
+<br/>
+
+### ✂️ SAM3 Cutout Studio
+
+A text-prompted segmentation studio. Describe an object ("white dog", "parked cars") and get a transparent-PNG cutout, or run frame-by-frame video object segmentation. Built with **SAM3** and Ultralytics, with a Streamlit web interface plus CLI scripts.
+
+&lt;img src=&quot;https://img.shields.io/badge/SAM3-7C3AED?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/Ultralytics-111F68?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white&quot;/&gt;
+
+[**📂 Repository**](https://github.com/shyamgadhiya/SAM3-Cutout-Studio)
+
+<br/>
+
+### 🎯 Traffic Tracking with ByteTrack & BoT-SORT
+
+A video analytics pipeline built on RF-DETR detections with interchangeable ByteTrack / BoT-SORT trackers, annotated output video, and trajectory export.
+
+&lt;img src=&quot;https://img.shields.io/badge/RF--DETR-0EA5E9?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/ByteTrack-111827?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/BoT--SORT-4338CA?style=flat-square&quot;/&gt; &lt;img src=&quot;https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white&quot;/&gt;
+
+[**📂 Repository**](https://github.com/shyamgadhiya/Traffic-Tracking-with-ByteTrack-BoT-SORT)
+
+<br/>
+
+### 🧪 Classic ML projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [❤️ **Heart Disease Prediction**](https://github.com/shyamgadhiya/Heart-Dieses-Predictor) | Classification app with a saved Random Forest model and scaler | Python · scikit-learn · Streamlit |
+| [🔥 **Calories Burnt Prediction**](https://github.com/shyamgadhiya/Calories-Burnt-Prediction) | Regression model estimating calories burned from exercise and body measurements | Python · Pandas · scikit-learn |
+
+<br/>
+
+## 🔬 Also exploring
+
+- **Pose estimation & exercise feedback:** keypoints, joint angles, temporal smoothing, rule-based coaching
+- **RAG product recommendation:** review-grounded answers with retrieval and vector search
+- **Pneumonia detection CNN:** medical-image classification experiments
+- **Computer vision fundamentals:** motion detection, object counting, lane detection, optical flow, camera calibration
+
+<br/>
+
+## 📊 GitHub at a glance
+
+&lt;div align=&quot;center&quot;&gt;
+
+&lt;picture&gt;
+  &lt;source media=&quot;(prefers-color-scheme: dark)&quot; srcset=&quot;https://github-readme-stats.vercel.app/api?username=shyamgadhiya&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=A5B4FC&amp;text_color=CBD5E1&amp;icon_color=818CF8&amp;rank_icon=github&quot;/&gt;
+  &lt;source media=&quot;(prefers-color-scheme: light)&quot; srcset=&quot;https://github-readme-stats.vercel.app/api?username=shyamgadhiya&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F8FAFC&amp;title_color=4338CA&amp;text_color=334155&amp;icon_color=4338CA&amp;rank_icon=github&quot;/&gt;
+  &lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=shyamgadhiya&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=A5B4FC&amp;text_color=CBD5E1&amp;icon_color=818CF8&amp;rank_icon=github&quot; height=&quot;165&quot; alt=&quot;GitHub stats&quot;/&gt;
+&lt;/picture&gt;
+&lt;picture&gt;
+  &lt;source media=&quot;(prefers-color-scheme: dark)&quot; srcset=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgadhiya&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=A5B4FC&amp;text_color=CBD5E1&quot;/&gt;
+  &lt;source media=&quot;(prefers-color-scheme: light)&quot; srcset=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgadhiya&amp;layout=compact&amp;hide_border=true&amp;bg_color=F8FAFC&amp;title_color=4338CA&amp;text_color=334155&quot;/&gt;
+  &lt;img src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgadhiya&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=A5B4FC&amp;text_color=CBD5E1&quot; height=&quot;165&quot; alt=&quot;Top languages&quot;/&gt;
+&lt;/picture&gt;
+
+<br/>
+
+&lt;picture&gt;
+  &lt;source media=&quot;(prefers-color-scheme: dark)&quot; srcset=&quot;https://streak-stats.demolab.com?user=shyamgadhiya&amp;hide_border=true&amp;background=0B1020&amp;ring=818CF8&amp;fire=A5B4FC&amp;currStreakLabel=A5B4FC&amp;sideLabels=CBD5E1&amp;dates=94A3B8&quot;/&gt;
+  &lt;source media=&quot;(prefers-color-scheme: light)&quot; srcset=&quot;https://streak-stats.demolab.com?user=shyamgadhiya&amp;hide_border=true&amp;background=F8FAFC&amp;ring=4338CA&amp;fire=4338CA&amp;currStreakLabel=4338CA&amp;sideLabels=334155&amp;dates=64748B&quot;/&gt;
+  &lt;img src=&quot;https://streak-stats.demolab.com?user=shyamgadhiya&amp;hide_border=true&amp;background=0B1020&amp;ring=818CF8&amp;fire=A5B4FC&amp;currStreakLabel=A5B4FC&amp;sideLabels=CBD5E1&amp;dates=94A3B8&quot; alt=&quot;Contribution streak&quot;/&gt;
+&lt;/picture&gt;
+
+&lt;/div&gt;
+
+<br/>
+
+## 🌱 Current focus
+
+- Better evaluation for object detection and multi-object tracking
+- Semantic image/video retrieval with vision-language models
+- Grounded LLM apps, RAG evaluation, and multi-agent orchestration
+- Clear setup instructions, reproducible experiments, and demos for every project
+
+<br/>
+
+## 🤝 Let's connect
+
+I'm happy to connect with people working in **AI/ML, computer vision, and generative AI**.
+
+&lt;div align=&quot;center&quot;&gt;
+
+&lt;a href=&quot;https://github.com/shyamgadhiya&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/GitHub-shyamgadhiya-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;GitHub&quot;/&gt;&lt;/a&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/shyam-gadhiya-624147248&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn&quot;/&gt;&lt;/a&gt;
+&lt;a href=&quot;mailto:shyamgadhiya502@gmail.com&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Email-Contact-4338CA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&quot; alt=&quot;Email&quot;/&gt;&lt;/a&gt;
+
+<br/><br/>
+
+&lt;img src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;color=0:4338CA,50:172554,100:0B1020&amp;height=110&amp;section=footer&quot; alt=&quot;Footer&quot; width=&quot;100%&quot;/&gt;
+
+&lt;sub&gt;Thanks for visiting. Open a repository and tell me what you think. ✨&lt;/sub&gt;
+
+&lt;/div&gt;
