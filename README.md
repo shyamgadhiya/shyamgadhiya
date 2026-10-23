@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,45:172554,100:4338CA&height=230&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=A5B4FC&descAlignY=58&animation=fadeIn" alt="Shyam Gadhiya banner" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,45:172554,100:4338CA&height=230&section=header&text=Shyam%20Gadhiya&fontSize=58&fontColor=38BDF8&fontAlignY=38&desc=AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=17&descColor=38BDF8&descAlignY=58&animation=fadeIn" alt="Shyam Gadhiya banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A5B4FC&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Detection+%E2%86%92+Tracking+%E2%86%92+Retrieval+%E2%86%92+Serving;Multi-agent+RAG+%7C+Vision-Language+Search;Looking+for+AI%2FML+opportunities" alt="Typing animation"/>
